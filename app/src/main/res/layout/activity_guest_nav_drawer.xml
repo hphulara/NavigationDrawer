@@ -1,0 +1,7 @@
+<ImageView
+    android:id="@+id/image_view"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:scaleType="centerCrop"
+    android:src="@drawable/ic_drawer"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
